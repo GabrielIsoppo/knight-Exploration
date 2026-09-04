@@ -16,7 +16,7 @@
         - Lava;
         - Espinho;
         - Buracos;
-        OBS: Todos os inimigos, exceto a lava, causam 1 de dano. A lava mata instantaneamente.
+        - OBS: Todos os inimigos, exceto a lava, causam 1 de dano. A lava mata instantaneamente.
 
     - 2 tipos de platformas:
         - Chão (plataformas voadoras usam a mesma mecânica que o chão);
@@ -34,7 +34,7 @@
         - Fácil;
         - Médio;
         - Difícil;
-        OBS: a dificuldade altera a velocidade dos inimigos, fácil->lento, difícil->rápido.
+        - OBS: a dificuldade altera a velocidade dos inimigos, fácil->lento, difícil->rápido.
 
 - Apenas 1 fase:
     - 9 inimigos:
@@ -67,7 +67,7 @@
 OBS: Todas as licenças podem ser encontradas na pasta licenses.
 ---
 
-## ⚠️ Aviso de Integridade Acadêmica
+## Aviso de Integridade Acadêmica
 
 * **Fins Educacionais e de Portfólio:** Este repositório foi tornado público estritamente como demonstração de aprendizado e portfólio pessoal de desenvolvimento. 
 * **Uso por outros estudantes:** Se você é um estudante atual da **UFPR** (Universidade Federal do Paraná) ou de outra instituição e está cursando uma matéria com projeto semelhante, **recomendo fortemente que não copie este código**. A cópia parcial ou total deste projeto sem autorização da sua coordenação pode violar as políticas de integridade acadêmica da sua instituição, resultando em penalidades por plágio.
