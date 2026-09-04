@@ -54,15 +54,15 @@
     OBS: Ambas as telas levam ao menu novamente.
 
 ## Créditos das sprites:
-1 - Jogador:        artista: https://jumpbutton.itch.io/;       link: https://jumpbutton.itch.io/girlknightasset
-2 - Inimigo Imóvel: artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art?download
-3 - Inimigo Móvel:  artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art?download
-4 - Inimigo Voador: artista: https://rekaalgames.itch.io/;      link: https://rekaalgames.itch.io/2d-flying-enemy
-5 - Espinho:        artista: https://froggu999.itch.io/;        link: https://froggu999.itch.io/stabby-spikes
-6 - Lava:           artista: https://martixs.itch.io/;          link: https://martixs.itch.io/lava
-7 - Plataforma:     artista: https://edermunizz.itch.io/;       link: https://edermunizz.itch.io/free-pixel-art-forest
-8 - Escada:         artista: https://nyknck.itch.io/;           link: https://nyknck.itch.io/wood-set
-9 - Background:     artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/nature-landscapes-free-pixel-art
+- 1 - Jogador:        artista: https://jumpbutton.itch.io/;       link: https://jumpbutton.itch.io/girlknightasset
+- 2 - Inimigo Imóvel: artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art?download
+- 3 - Inimigo Móvel:  artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/free-tiny-hero-sprites-pixel-art?download
+- 4 - Inimigo Voador: artista: https://rekaalgames.itch.io/;      link: https://rekaalgames.itch.io/2d-flying-enemy
+- 5 - Espinho:        artista: https://froggu999.itch.io/;        link: https://froggu999.itch.io/stabby-spikes
+- 6 - Lava:           artista: https://martixs.itch.io/;          link: https://martixs.itch.io/lava
+- 7 - Plataforma:     artista: https://edermunizz.itch.io/;       link: https://edermunizz.itch.io/free-pixel-art-forest
+- 8 - Escada:         artista: https://nyknck.itch.io/;           link: https://nyknck.itch.io/wood-set
+- 9 - Background:     artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/nature-landscapes-free-pixel-art
 
 OBS: Todas as licenças podem ser encontradas na pasta licenses.
 ---
