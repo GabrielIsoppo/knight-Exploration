@@ -65,3 +65,9 @@
 9 - Background:     artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/nature-landscapes-free-pixel-art
 
 OBS: Todas as licenças podem ser encontradas na pasta licenses.
+---
+
+## ⚠️ Aviso de Integridade Acadêmica
+
+* **Fins Educacionais e de Portfólio:** Este repositório foi tornado público estritamente como demonstração de aprendizado e portfólio pessoal de desenvolvimento. 
+* **Uso por outros estudantes:** Se você é um estudante atual da **UFPR** (Universidade Federal do Paraná) ou de outra instituição e está cursando uma matéria com projeto semelhante, **recomendo fortemente que não copie este código**. A cópia parcial ou total deste projeto sem autorização da sua coordenação pode violar as políticas de integridade acadêmica da sua instituição, resultando em penalidades por plágio.
