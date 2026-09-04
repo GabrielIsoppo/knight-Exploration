@@ -64,7 +64,8 @@
 - 8 - Escada:         artista: https://nyknck.itch.io/;           link: https://nyknck.itch.io/wood-set
 - 9 - Background:     artista: https://free-game-assets.itch.io/; link: https://free-game-assets.itch.io/nature-landscapes-free-pixel-art
 
-OBS: Todas as licenças podem ser encontradas na pasta licenses.
+### OBS: Todas as licenças podem ser encontradas na pasta licenses.
+
 ---
 
 ## Aviso de Integridade Acadêmica
